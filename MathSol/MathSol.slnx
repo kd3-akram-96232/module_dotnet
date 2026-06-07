@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClassRoom/ClassRoom.csproj" />
+  <Project Path="MathClient/MathClient.csproj" />
+  <Project Path="Mathlib/Mathlib.csproj" />
+</Solution>

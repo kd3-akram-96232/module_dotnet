@@ -1,0 +1,6 @@
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\Mathlib\obj\Debug\Mathlib.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\Mathlib\obj\Debug\Mathlib.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\Mathlib\bin\Debug\Mathlib.dll
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\Mathlib\bin\Debug\Mathlib.pdb
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\Mathlib\obj\Debug\Mathlib.dll
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\Mathlib\obj\Debug\Mathlib.pdb

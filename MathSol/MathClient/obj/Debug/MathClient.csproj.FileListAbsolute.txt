@@ -1,0 +1,10 @@
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\bin\Debug\MathClient.exe.config
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\bin\Debug\MathClient.exe
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\bin\Debug\MathClient.pdb
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\bin\Debug\Mathlib.dll
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\bin\Debug\Mathlib.pdb
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\obj\Debug\MathClient.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\obj\Debug\MathClient.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\obj\Debug\MathClient.csproj.Up2Date
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\obj\Debug\MathClient.exe
+C:\Users\rahul\OneDrive\Desktop\CDAC-Github\Dotnet\Day1\MathSol\MathClient\obj\Debug\MathClient.pdb
